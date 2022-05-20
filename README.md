@@ -1,6 +1,6 @@
 # Facebook Birthday Wish Response
 
-This Python script will automatically thank everyone for their birthday wishes on your Facebook timeline.
+This Python script will automatically thank everyone for their birthday wishes on your Facebook timeline. Test
 
 ---
 
